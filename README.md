@@ -1,2 +1,1 @@
-# Deep_Learning-Projects
-A collection of deep learning projects implemented using Python, TensorFlow, PyTorch
+End to End potato Disease classification model using convolutional neural network 
